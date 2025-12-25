@@ -1,0 +1,94 @@
+{
+  "buttons": [
+    {
+      "name": "Azure",
+      "filename": "deploy-azure.svg",
+      "url": "https://portal.azure.com/#create/Microsoft.Template",
+      "category": "cloud"
+    },
+    {
+      "name": "Cloudflare Workers",
+      "filename": "deploy-cloudflare-worker.svg",
+      "url": "https://workers.cloudflare.com/",
+      "category": "serverless"
+    },
+    {
+      "name": "Cloudflare Pages",
+      "filename": "deploy-cloudflare.svg",
+      "url": "https://dash.cloudflare.com/",
+      "category": "hosting"
+    },
+    {
+      "name": "Coolify",
+      "filename": "deploy-coolify.svg",
+      "url": "https://coolify.io/",
+      "category": "self-hosted"
+    },
+    {
+      "name": "DigitalOcean",
+      "filename": "deploy-digitalocean.svg",
+      "url": "https://cloud.digitalocean.com/apps/new",
+      "category": "cloud"
+    },
+    {
+      "name": "Dokploy",
+      "filename": "deploy-dokploy.svg",
+      "url": "https://dokploy.com/",
+      "category": "self-hosted"
+    },
+    {
+      "name": "Google Cloud Run",
+      "filename": "deploy-google-cloud-run.svg",
+      "url": "https://console.cloud.google.com/run",
+      "category": "cloud"
+    },
+    {
+      "name": "Heroku",
+      "filename": "deploy-heroku.svg",
+      "url": "https://heroku.com/deploy",
+      "category": "paas"
+    },
+    {
+      "name": "IBM Cloud",
+      "filename": "deploy-ibm.svg",
+      "url": "https://cloud.ibm.com/",
+      "category": "cloud"
+    },
+    {
+      "name": "Koyeb",
+      "filename": "deploy-koyeb.svg",
+      "url": "https://app.koyeb.com/",
+      "category": "paas"
+    },
+    {
+      "name": "Netlify",
+      "filename": "deploy-netlify.svg",
+      "url": "https://app.netlify.com/start",
+      "category": "hosting"
+    },
+    {
+      "name": "Oracle Cloud",
+      "filename": "deploy-oracle.svg",
+      "url": "https://cloud.oracle.com/",
+      "category": "cloud"
+    },
+    {
+      "name": "Railway",
+      "filename": "deploy-railway.svg",
+      "url": "https://railway.app/new/template",
+      "category": "paas"
+    },
+    {
+      "name": "Render",
+      "filename": "deploy-render.svg",
+      "url": "https://render.com/",
+      "category": "paas"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024",
+    "totalButtons": 14
+  }
+}
+

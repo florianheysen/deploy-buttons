@@ -8,6 +8,16 @@
 
 > A unified and modern collection of deploy buttons for cloud platforms
 
+## Table of Contents
+
+- [Why this project?](#why-this-project)
+- [Features](#features)
+- [Available buttons](#available-buttons)
+- [Usage](#-usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Projects using Deploy Buttons](#projects-using-deploy-buttons)
+
 This is an open source project that provides a complete and styled collection of deploy buttons for all major cloud platforms. I created this project to make READMEs more beautiful and modern, offering high-quality SVG buttons that integrate perfectly into your projects.
 
 ## Why this project?
@@ -161,7 +171,16 @@ This list showcases projects that use these deploy buttons. Feel free to add you
 
 ## Contributing
 
-Contributions are welcome! Feel free to open an issue or pull request.
+Contributions are welcome! We have a detailed [Contributing Guide](CONTRIBUTING.md) that covers:
+
+- How to add new deploy buttons
+- SVG guidelines and best practices
+- Pull request process
+- Code style guidelines
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
+For security concerns, please see our [Security Policy](SECURITY.md).
 
 ---
 
