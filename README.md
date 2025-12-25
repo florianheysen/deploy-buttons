@@ -1,9 +1,8 @@
 ![Deploy Buttons Banner](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/banner.png)
 
-![Buttons Count](https://img.shields.io/badge/buttons-14-blue?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Open Source](https://img.shields.io/badge/open--source-yes-brightgreen?style=flat-square)
-![Maintained](https://img.shields.io/badge/maintained-yes-success?style=flat-square)
+![Buttons Count](https://img.shields.io/badge/buttons-14-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+[![Add New Button](https://img.shields.io/badge/PRs-welcome-brightgreen&logo=github)](https://github.com/florianheysen/deploy-buttons/issues/new?template=button-request.md)
 
 # Deploy Buttons
 
