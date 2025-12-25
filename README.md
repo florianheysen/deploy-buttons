@@ -1,3 +1,10 @@
+![Deploy Buttons Banner](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/banner.png)
+
+![Buttons Count](https://img.shields.io/badge/buttons-14-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Open Source](https://img.shields.io/badge/open--source-yes-brightgreen?style=flat-square)
+![Maintained](https://img.shields.io/badge/maintained-yes-success?style=flat-square)
+
 # Deploy Buttons
 
 > A unified and modern collection of deploy buttons for cloud platforms
@@ -24,7 +31,7 @@ Here are all the deploy buttons available in this collection:
 ![Azure Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-azure.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-azure.svg
+[![Deploy to Azure](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-azure.svg)](https://portal.azure.com/#create/Microsoft.Template)
 ```
 
 ### Cloudflare Workers
@@ -32,7 +39,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Cloudflare Workers Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare-worker.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare-worker.svg
+[![Deploy to Cloudflare Workers](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare-worker.svg)](https://workers.cloudflare.com/)
 ```
 
 ### Cloudflare Pages
@@ -40,7 +47,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Cloudflare Pages Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare.svg
+[![Deploy to Cloudflare Pages](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare.svg)](https://dash.cloudflare.com/)
 ```
 
 ### Coolify
@@ -48,7 +55,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Coolify Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-coolify.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-coolify.svg
+[![Deploy to Coolify](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-coolify.svg)](https://coolify.io/)
 ```
 
 ### DigitalOcean
@@ -56,7 +63,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![DigitalOcean Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-digitalocean.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-digitalocean.svg
+[![Deploy to DigitalOcean](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-digitalocean.svg)](https://cloud.digitalocean.com/apps/new)
 ```
 
 ### Dokploy
@@ -64,7 +71,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Dokploy Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-dokploy.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-dokploy.svg
+[![Deploy to Dokploy](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-dokploy.svg)](https://dokploy.com/)
 ```
 
 ### Google Cloud Run
@@ -72,7 +79,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Google Cloud Run Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-google-cloud-run.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-google-cloud-run.svg
+[![Deploy to Google Cloud Run](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-google-cloud-run.svg)](https://console.cloud.google.com/run)
 ```
 
 ### Heroku
@@ -80,7 +87,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Heroku Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-heroku.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-heroku.svg
+[![Deploy to Heroku](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-heroku.svg)](https://heroku.com/deploy)
 ```
 
 ### IBM Cloud
@@ -88,7 +95,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![IBM Cloud Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-ibm.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-ibm.svg
+[![Deploy to IBM Cloud](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-ibm.svg)](https://cloud.ibm.com/)
 ```
 
 ### Koyeb
@@ -96,7 +103,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Koyeb Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-koyeb.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-koyeb.svg
+[![Deploy to Koyeb](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-koyeb.svg)](https://app.koyeb.com/)
 ```
 
 ### Netlify
@@ -104,7 +111,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Netlify Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-netlify.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-netlify.svg
+[![Deploy to Netlify](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-netlify.svg)](https://app.netlify.com/start)
 ```
 
 ### Oracle Cloud
@@ -112,7 +119,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Oracle Cloud Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-oracle.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-oracle.svg
+[![Deploy to Oracle Cloud](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-oracle.svg)](https://cloud.oracle.com/)
 ```
 
 ### Railway
@@ -120,7 +127,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Railway Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg
+[![Deploy to Railway](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg)](https://railway.app/new/template)
 ```
 
 ### Render
@@ -128,7 +135,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 ![Render Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-render.svg)
 
 ```
-https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-render.svg
+[![Deploy to Render](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-render.svg)](https://render.com/)
 ```
 
 ## 🚀 Usage
@@ -138,7 +145,7 @@ https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/s
 Simply add the image and link to your deployment platform:
 
 ```markdown
-[![Deploy on Railway](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg)](https://railway.app/new/template)
+[![Deploy to Railway](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg)](https://railway.app/new/template)
 ```
 
 ## License
@@ -148,6 +155,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## Projects using Deploy Buttons
 
 This list showcases projects that use these deploy buttons. Feel free to add yours!
+
+- [Openinary](https://github.com/openinary/openinary) - The only self-hostable alternative to Cloudinary
 
 <!-- Add your project here by creating a Pull Request -->
 
